@@ -1,0 +1,7 @@
+interface:
+  display_name: "웹핏 경험 기반 블로그 글쓰기"
+  short_description: "EXP 경험을 검색 의도형 네이버 블로그로 작성"
+  default_prompt: "Use $webfit-blog to turn a verified Webfit EXP asset into a Naver blog article step by step."
+policy:
+  allow_implicit_invocation: true
+

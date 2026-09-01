@@ -1,0 +1,7 @@
+interface:
+  display_name: "웹핏 경험 원석 쌓기"
+  short_description: "실제 작업 경험을 인터뷰하고 EXP 원석으로 축적"
+  default_prompt: "Use $webfit-experience to collect my Webfit work experience and save it as a verified EXP asset."
+policy:
+  allow_implicit_invocation: true
+

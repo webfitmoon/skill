@@ -1,0 +1,8 @@
+interface:
+  display_name: "웹핏 블로그 형태소·EEAT 검수"
+  short_description: "경험 기반 원고의 형태소와 EEAT 근거 검증"
+  default_prompt: "Use $webfit-blogcheck to verify the morphology, keyword balance, E-E-A-T evidence, factuality, and structure of this Webfit blog draft."
+policy:
+  allow_implicit_invocation: true
+
+
